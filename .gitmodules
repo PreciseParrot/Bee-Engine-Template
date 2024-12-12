@@ -1,0 +1,3 @@
+[submodule "Bee-Engine"]
+	path = Bee-Engine
+	url = https://github.com/PreciseParrot/Bee-Engine
